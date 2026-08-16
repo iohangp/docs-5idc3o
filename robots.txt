@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-eqi74b.pulaucuanwin.sbs/sitemap.xml
